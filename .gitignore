@@ -1,0 +1,6 @@
+/difflib
+/difflib.exe
+*.test
+*.out
+coverage.txt
+coverage.html
