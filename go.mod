@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/difflib
+module github.com/quietpelican42/difflib
 
 go 1.23

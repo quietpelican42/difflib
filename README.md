@@ -47,7 +47,7 @@ output exactly, including the "autojunk" popular-element heuristic and
 ## Installation
 
 ```sh
-go get github.com/__GH_OWNER__/difflib
+go get github.com/quietpelican42/difflib
 ```
 
 ## Usage
